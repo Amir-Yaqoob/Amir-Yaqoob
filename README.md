@@ -9,7 +9,7 @@ I specialize in building scalable, enterprise-grade test automation frameworks, 
 ### 🛠️ Core Stack & Focus Areas
 
 * **E2E & Functional Testing:** Playwright (TypeScript), Selenium
-* **Performance & Load Testing:** k6, Locust
+* **Performance & Load Testing:** k6
 * **AI & MCP Tooling:** Model Context Protocol (MCP), GitHub Copilot for Test Automation
 * **ML QA & Testing:** QA4ML Frameworks, Dataset Validation, Model Monitoring
 * **CI/CD & DevOps:** GitHub Actions, Docker, Test Infrastructure Optimization
